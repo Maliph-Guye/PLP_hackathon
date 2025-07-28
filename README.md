@@ -1,6 +1,6 @@
 # 🌟 Ondito's Portfolio - README  
 
-Hey there! 👋 Welcome to **Tonnis Ondito's** vibrant, interactive portfolio website! This is where I showcase my skills, projects, and passion for building beautiful, functional digital experiences. Let me walk you through what makes this site special.  
+Hey there! 👋 Welcome to this vibrant, interactive portfolio website! This is where I showcase my skills, projects, and passion for building beautiful, functional digital experiences. Let me walk you through what makes this site special.  
 
 ---
 
@@ -20,7 +20,7 @@ Hey there! 👋 Welcome to **Tonnis Ondito's** vibrant, interactive portfolio we
 ### **Frontend**  
 - **HTML5** – Semantic, accessible structure  
 - **CSS3** – Custom animations, gradients, and responsive layouts  
-- **Vanilla JavaScript** – Lightweight interactions  
+   
 
 ### **Design & Tools**  
 - **Font Awesome** – Crisp icons for social links and UI  
