@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta tags will provide metadata about my page for browsers, search engines, and social media. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="description" content="Professional portfolio showcasing my web development skills and projects">
     <title>Tonnis Ondito</title>
-    <meta name="description" content="Professional portfolio showcasing my web development skills and projects">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -15,7 +16,7 @@
                 <i class="fas fa-code"></i>
                 <span>Ondito254</span>
             </a>
-            
+             <!--ARIA attributes enhance web accessibility for assistive technologies like screen readers-->
             <input type="checkbox" id="menu-toggle" class="menu-toggle">
             <label for="menu-toggle" class="hamburger" aria-label="Toggle menu">
                 <span></span>
@@ -24,6 +25,7 @@
             </label>
             
             <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#education">Education</a></li>
                 <li><a href="#skills">Skills</a></li>
@@ -34,6 +36,8 @@
         </nav>
     </header>
     <main>
+
+        <!--Home section-->
         <section class="hero" id="home">
             <div class="hero-content">
                 <h1>I Build <span class="highlight">Digital Experiences</span></h1>
@@ -50,6 +54,8 @@
                 <figcaption class="sr-only">Ondito's Portrait</figcaption>
             </figure>
         </section>
+
+        <!--About me section-->
         <section id="about" class="section">
             <div class="section-header">
                 <h2>About Me</h2>
@@ -70,13 +76,15 @@
                     </div>
                 </div>
                 <div class="about-video">
-                    <video style="max-width:100%; height:auto;" loop autoplay poster="/Images/tech.jpg">
+                    <video style="max-width:100%; height:auto; height: 100%" autoplay muted loop poster="/Images/tech.jpg">
                         <source src="/Images/code.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
                     </video>
                 </div>
             </div>
         </section>
-
+        
+        <!--My Education section-->
         <section id="education" class="section">
             <div class="section-header">
                 <h2>Education</h2>
@@ -113,6 +121,7 @@
             </div>
         </section>
 
+        <!--My skills me section-->
         <section id="skills" class="section">
             <div class="section-header">
                 <h2>Technical Skills</h2>
@@ -155,6 +164,7 @@
             </div>
         </section>
 
+        <!--Professional Interests-->
         <section id="interests" class="section">
             <div class="section-header">
                 <h2>Professional Interests</h2>
@@ -188,6 +198,7 @@
             </div>
         </section>
 
+        <!--Portfolio section with links and snippets to different projects-->
         <section id="projects" class="section">
             <div class="section-header">
                 <h2>Featured Projects</h2>
@@ -245,6 +256,7 @@
             </div>
         </section>
 
+        <!--Contact me section with an interactive form-->
         <section id="contact" class="section">
             <div class="section-header">
                 <h2>Get In Touch</h2>
@@ -279,6 +291,7 @@
         </section>
     </main>
 
+    <!--Footer containing links to my social media accounts, section links, and copyright-->
     <footer>
         <div class="footer-content">
             <div class="footer-social">
