@@ -1,5 +1,7 @@
 # 🌟 Ondito's Portfolio - README  
 
+**🚀 View Live Demo:**  https://tonnis.netlify.app
+
 Hey there! 👋 Welcome to this vibrant, interactive portfolio website! This is where I showcase my skills, projects, and passion for building beautiful, functional digital experiences. Let me walk you through what makes this site special.  
 
 ---
@@ -20,7 +22,6 @@ Hey there! 👋 Welcome to this vibrant, interactive portfolio website! This is 
 ### **Frontend**  
 - **HTML5** – Semantic, accessible structure  
 - **CSS3** – Custom animations, gradients, and responsive layouts  
-   
 
 ### **Design & Tools**  
 - **Font Awesome** – Crisp icons for social links and UI  
@@ -46,11 +47,11 @@ Hey there! 👋 Welcome to this vibrant, interactive portfolio website! This is 
    ```
 
 2. **Personalize**:  
-   - Replace `/Images/ondito_page.jpg` with your portrait  
+   - Replace `Images/ondito_page.jpg` with your portrait  
    - Update project details in the HTML  
    - Tweak colors in `:root` CSS variables  
 
-3. **Deploy anywhere** – Netlify, Vercel, or good ol' GitHub Pages!  
+3. **Deploy anywhere** – Netlify, Vercel, or GitHub Pages!  
 
 ---
 
@@ -72,4 +73,5 @@ Found a bug? Want to collaborate?
 **Happy coding!** 💻✨  
 
 ---  
-*"Every line of code is a step towards a more interactive and intelligent web."* – Tonnis
+*"Every line of code is a step towards a more interactive and intelligent web."* – Tonnis  
+
